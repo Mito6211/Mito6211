@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with the open source workflow.
 - 💬 Ask me about JavaScript, React, Python, Colemak, or Computer Hardware.
 - 💵 I am searching for freelance and open source opportunities.
-- 😀 I enjoy building apps with React + Electron.
+- 😀 I enjoy building apps with React.
 - 📫 How to reach me: Discord - Mito#3185.
