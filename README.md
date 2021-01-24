@@ -6,4 +6,4 @@
 - 💬 Ask me about JavaScript, React, Python, Colemak, or Computer Hardware.
 - 🔎 I am searching for freelance and open source opportunities.
 - 😀 I enjoy building apps with the MERN stack.
-- 📫 How to reach me: **Discord - Mito#9999**.
+- 📫 How to reach me: Discord - **Mito#9999**.
