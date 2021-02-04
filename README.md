@@ -1,6 +1,6 @@
 ### Hey, I'm Mito
 
-- 🔭 I’m currently working on: Dashboard PWA.
+- 🔭 I’m currently working on: Chrome Extension.
 - 🌱 I’m currently learning Figma.
 - 👯 I’m looking to collaborate on: Any project looking for help!
 - 💬 Ask me about JavaScript, React, Python, Colemak, or Computer Hardware.
