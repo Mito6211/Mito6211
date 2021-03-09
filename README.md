@@ -6,3 +6,4 @@
 - 🔎 I am searching for freelance opportunities.
 - 😀 I enjoy building apps with React and Typescript.
 - 📫 How to reach me: Discord - **Mito#9999**
+# ![](https://komarev.com/ghpvc/?username=Mito9999&color=blue)
